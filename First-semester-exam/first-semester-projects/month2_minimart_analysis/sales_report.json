@@ -1,0 +1,19 @@
+{
+    "report_date": "2025-10-05 18:26:28",
+    "total_products_sold": 25,
+    "most_popular_product": "Munch it",
+    "revenue_by_customer": {
+        "Danielle River": 16000.0,
+        "Henry Hart": 3750.0,
+        "Adam Tare": 2400.0,
+        "Ben Graham": 2000.0,
+        "David Gold": 1100.0
+    },
+    "latest_order": {
+        "order_id": 8,
+        "total_usd": 16000.0,
+        "is_large_order": true,
+        "discounted_total": 14400.0,
+        "total_eur": 12240.0
+    }
+}
